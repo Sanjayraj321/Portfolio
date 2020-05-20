@@ -1,0 +1,101 @@
+body{
+	background: url("Wallpapers/Digital Art (5).jpg")fixed;
+	background-size: cover;
+
+
+}
+.main{
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 0px 0px 30px yellow;
+}
+.d{
+	width: auto;
+	background: url("Wallpapers/Digital Art (5).jpg");
+	height: 200px;
+	margin: auto;
+	border-radius: 20px 20px 0px 0px;
+	border-bottom: 10px yellow solid;
+}
+.name{
+	color: white;
+	height: 80px;
+	width: auto;
+	float: left;
+	font-style: italic;
+	font-size: 25px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+.name p{
+	margin-top: -40px;
+	text-decoration: underline;
+}
+.photo{
+	float: right;
+	width: 200px;
+	margin-right: 80px;
+	background:  url("Wallpapers/IMG_20171224_220410.jpg");
+	background-size: cover;
+	height: 200px;
+}
+.sideline{
+	color: white;
+	width: 300px;
+	height: 790px;
+	border-radius: 0px 0px 0px 20px;
+	float: left;
+	background: black;
+}
+.sideline hr{
+	margin-left: -30px;
+	margin-top: 150px;
+}
+.sideline h2{
+	text-align: center;
+	margin-left: -50px;
+	text-decoration: underline;
+	font-style: italic;
+}
+.layer1{
+	height: 300px;
+	width: 1000px;
+	color: white;
+	border-bottom: 1px yellow solid;
+}
+* h2{
+	text-align: center;
+	color: white;
+}
+.layer1 h3{
+	font-size:20px;
+	font-style: italic;
+}
+.span{
+	font-family: cursive;
+	font-size: 12px;
+	text-decoration: underline;
+}
+.layer2{
+	height: 200px;
+	width: 1000px;
+	color: white;
+	border-bottom: 1px yellow solid;
+}
+.layer22{
+	text-align: center;
+	letter-spacing: 2px;
+	width: 970px;
+}
+.layer3{
+	height: 240px;
+	width: 1000px;
+}
+.layer33{
+	
+	color: white;
+	letter-spacing: 2px;
+	text-align: center;
+}
